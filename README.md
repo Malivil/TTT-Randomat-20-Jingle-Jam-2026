@@ -17,7 +17,7 @@ _ttt_randomat_jinglejam2026_weight_ - Default: -1 - The weight this event should
 ## Wait... What's my ability again?
 _Contributed By_: Nick\
 Everyone has a randomly generated Amnesiac ability.\
-_Requires the Jingle Jam 2026 Roles Pack to run._
+_Requires the [Jingle Jam 2026 Roles Pack](TODO) to run._
 \
 \
 **ConVars**
