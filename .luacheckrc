@@ -1380,14 +1380,11 @@ globals = {
     -- External addon constants and namespaces
     "EQUIP_PHD",
 
-    -- JJ2022 Roles
-    "ROLE_DETECTOCLOWN",
+    -- JJ2026 Roles
+    "AMNESIAC",
+    "ROLE_AMNESIAC",
 
-    -- JJ2025 Randomat
-    "HOMEALONE",
-    "ROLE_KEVIN",
-    "SCAVENGER_HUNT",
-    "WIN_KEVIN",
+    -- JJ2026 Randomat
 }
 std = {
     globals = {
