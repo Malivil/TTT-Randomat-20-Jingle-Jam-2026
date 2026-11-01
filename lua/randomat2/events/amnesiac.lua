@@ -38,4 +38,8 @@ function EVENT:End()
     end
 end
 
+function EVENT:Condition()
+    if not AMNESIAC then return false end
+end
+
 Randomat:register(EVENT)
